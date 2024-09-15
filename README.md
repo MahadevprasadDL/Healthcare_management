@@ -9,3 +9,10 @@ The `crud.php` file is the core of the system, implementing all CRUD operations 
 The `data.sql` file contains the database schema and initial data required for the system. It includes tables for storing patient information, appointment details, and user credentials. The database schema is designed to handle relational data, ensuring that all records are linked correctly, which is essential for maintaining data integrity in a healthcare environment.
 
 In summary, this healthcare management system uses PHP and MySQL to implement a secure and efficient platform for handling critical healthcare data. The `login.php` page ensures secure access, while `crud.php` provides a user-friendly interface for managing patient records and appointments using CRUD operations. The `data.sql` file underpins the system, defining the database structure and initializing essential data.
+
+
+# NOTE 
+ username :- girish
+ password :- 123456
+ 
+ 
