@@ -18,6 +18,8 @@ In summary, this healthcare management system uses PHP and MySQL to implement a 
 ## Final output
 ![Screenshot (385)](https://github.com/user-attachments/assets/6e5412f6-313b-4e85-8b20-eeeca1ef48e1)
 
+![Screenshot (384)](https://github.com/user-attachments/assets/3858a85c-28e6-4ad5-bba7-42fab35e966e)
+
  
  
  
