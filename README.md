@@ -14,5 +14,10 @@ In summary, this healthcare management system uses PHP and MySQL to implement a 
 # NOTE 
  username :- girish
  password :- 123456
+
+## Final output
+![Screenshot (385)](https://github.com/user-attachments/assets/6e5412f6-313b-4e85-8b20-eeeca1ef48e1)
+
+ 
  
  
